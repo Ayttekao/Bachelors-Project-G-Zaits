@@ -1,0 +1,17 @@
+{
+    "name": "Ayttekao.Unity.Tests",
+    "references": [
+        "Ayttekao.Unity",
+        "Ayttekao.Unity.Examples"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
